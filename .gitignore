@@ -8,6 +8,7 @@ dist/
 .env
 .env.local
 .env.*.local
+.npmrc
 
 # IDE
 .idea/
@@ -25,3 +26,14 @@ npm-debug.log*
 
 # Claude
 .claude/
+
+# WSL mount artifacts
+.bash_profile
+.bashrc
+.gitconfig
+.gitmodules
+.mcp.json
+.profile
+.ripgreprc
+.zprofile
+.zshrc
