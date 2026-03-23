@@ -2,6 +2,8 @@
 
 Telegram bot that manages the [telegram-minions](https://github.com/tprei/telegram-minions) package repository.
 
+![Screenshot](docs/screenshot.png)
+
 ## Setup
 
 ### Prerequisites
