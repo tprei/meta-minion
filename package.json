@@ -9,7 +9,7 @@
     "dev": "npx tsx src/index.ts"
   },
   "dependencies": {
-    "@tprei/telegram-minions": "^1.0.3",
+    "@tprei/telegram-minions": "^1.2.0",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
