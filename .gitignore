@@ -24,8 +24,12 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# Claude
-.claude/
+# Claude (but keep agents)
+.claude/*
+!.claude/agents/
+
+# Setup wizard (only needed in template repo)
+scripts/setup-wizard.sh
 
 # WSL mount artifacts
 .bash_profile
